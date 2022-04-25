@@ -1,5 +1,4 @@
 # How to run:
-TODO
 - `cd` into this folder
 - run `python3 -m http.server`
     - This will create an ad-hoc webserver in the folder where it's run. The webserver will serve files from the folder and child folders.
